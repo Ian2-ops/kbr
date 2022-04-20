@@ -1,0 +1,79 @@
+.body {
+    background-image: url(/assets/media/undraw_remotely_2j6y.png);
+}
+
+.content {
+    margin: 8%;
+    background-color: white;
+    padding: 4rem 1rem 4rem 1rem;
+
+}
+
+.sign-text {
+    font-style: normal;
+    font-weight: 600 !important;
+    color: #47597E;
+}
+
+.form-control {
+    display: block;
+    width: 100%;
+    font-size: 1rem;
+    font-weight: 400;
+    line-height: 1.5;
+    border-color: #DBD3D8;
+    border-style: solid !important;
+    border-width: 0 0 1px 0 !important;
+    color: #47597E;
+    height: auto;
+    border-radius: 0;
+    background-color: #fff;
+    background-clip: padding-box;
+}
+
+.form-control:focus {
+    color: #47597E;
+    background-color: #fff;
+    border-color: #fff;
+    outline: 0;
+    box-shadow: none;
+}
+
+nav.navbar {
+    background-color: #47597E;
+}
+
+.bg-bluish {
+background-color: #47597E;
+}
+
+.bluish {
+    color: #47597E;
+}
+
+.btn {
+    margin-bottom: 6%;
+}
+
+.btn-outline-bluish {
+    color: #47597E;
+    border-color: #47597E;
+}
+
+.btn-outline-bluish:hover {
+    color: #fff;
+    background-color: #47597E;
+    border-color: #47597E;
+}
+
+/* Chrome, Safari, Edge, Opera */
+input::-webkit-outer-spin-button,
+input::-webkit-inner-spin-button {
+    -webkit-appearance: none;
+    margin: 0;
+}
+
+/* Firefox */
+input[type=number] {
+    -moz-appearance: textfield;
+}
